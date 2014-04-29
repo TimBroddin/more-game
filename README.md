@@ -7,4 +7,4 @@ The original calls for less muslims, less immigration and less criminality. This
 
 All game logic is in /src, resources can be found in /resources.
 
-Not really sure what the licence is, because I just copied the original (http://www.minder-spel.com/). But as Banksy once said: *Less than nothing, you especially don’t owe them any courtesy. They owe you. They have re-arranged the world to put themselves in front of you. They never asked for your permission, don’t even start asking for theirs.*
+Not really sure what the licence is, because I just copied the original (http://www.minder-spel.com/). But as Banksy once said: *They never asked for your permission, don’t even start asking for theirs.*

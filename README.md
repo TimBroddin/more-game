@@ -7,4 +7,5 @@ The original calls for less muslims, less immigration and less criminality. This
 
 All game logic is in /src, resources can be found in /resources.
 
-Not really sure what the licence is, because I just copied the original (http://www.minder-spel.com/). But as Banksy once said: *They never asked for your permission, don’t even start asking for theirs.*
+Not really sure what the licence is, because I just copied the original (http://www.minder-spel.com/). But as Banksy once said: 
+*Fuck that. Any advert in a public space that gives you no choice whether you see it or not is yours. It’s yours to take, re-arrange and re-use. You can do whatever you like with it. Asking for permission is like asking to keep a rock someone just threw at your head.*

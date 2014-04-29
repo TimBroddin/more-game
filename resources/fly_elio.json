@@ -1,0 +1,44 @@
+{"frames": {
+
+"FlyElio_Sequence_A 1.png":
+{
+	"frame": {"x":0,"y":0,"w":200,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":160},
+	"sourceSize": {"w":200,"h":160}
+},
+"FlyElio_Sequence_A 2.png":
+{
+	"frame": {"x":200,"y":0,"w":200,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":200,"y":0,"w":200,"h":160},
+	"sourceSize": {"w":200,"h":160}
+},
+"FlyElio_Sequence_A 3.png":
+{
+	"frame": {"x":400,"y":0,"w":200,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":400,"y":0,"w":200,"h":160},
+	"sourceSize": {"w":200,"h":160}
+},
+"FlyElio_Sequence_A 4.png":
+{
+	"frame": {"x":600,"y":0,"w":200,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":600,"y":0,"w":200,"h":160},
+	"sourceSize": {"w":200,"h":160}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "fly_elio.png",
+	"format": "RGBA8888",
+	"size": {"w":800,"h":160},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:17e4a2d92ff3e27832c3f4938cec7c85$"
+}
+}

@@ -1,0 +1,60 @@
+{"frames": {
+
+"Crimineel_Sequence_A 1.png":
+{
+	"frame": {"x":0,"y":0,"w":120,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":200},
+	"sourceSize": {"w":120,"h":200}
+},
+"Crimineel_Sequence_A 2.png":
+{
+	"frame": {"x":120,"y":0,"w":120,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":200},
+	"sourceSize": {"w":120,"h":200}
+},
+"Crimineel_Sequence_A 3.png":
+{
+	"frame": {"x":240,"y":0,"w":120,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":200},
+	"sourceSize": {"w":120,"h":200}
+},
+"Crimineel_Sequence_A 4.png":
+{
+	"frame": {"x":360,"y":0,"w":120,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":200},
+	"sourceSize": {"w":120,"h":200}
+},
+"Crimineel_Sequence_A 5.png":
+{
+	"frame": {"x":480,"y":0,"w":120,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":200},
+	"sourceSize": {"w":120,"h":200}
+},
+"Crimineel_Sequence_A 6.png":
+{
+	"frame": {"x":600,"y":0,"w":120,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":200},
+	"sourceSize": {"w":120,"h":200}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "crimineel.png",
+	"format": "RGBA8888",
+	"size": {"w":720,"h":200},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:17e4a2d92ff3e27832c3f4938cec7c85$"
+}
+}

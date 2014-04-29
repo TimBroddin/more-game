@@ -1,0 +1,28 @@
+{"frames": {
+
+"Politiewagen_Sequence_A 1.png":
+{
+	"frame": {"x":0,"y":0,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+"olitiewagen_Sequence_A 2.png":
+{
+	"frame": {"x":300,"y":0,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "politiewagen.png",
+	"format": "RGBA8888",
+	"size": {"w":600,"h":200},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:17e4a2d92ff3e27832c3f4938cec7c85$"
+}
+}
